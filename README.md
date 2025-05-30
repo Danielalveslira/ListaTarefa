@@ -1,1 +1,2 @@
- ## ListaTarefa é minimalista. Rápida, direta, sem distrações.
+ ## ListaTarefa
+É minimalista. Rápida, direta, sem distrações.
